@@ -1,3 +1,3 @@
 <center>
-  <img src="preview.png"></img>
+  <img src="preview.png" width="500"></img>
 </center>
